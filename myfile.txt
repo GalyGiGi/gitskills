@@ -6,3 +6,4 @@ dev1
 master
 modify in master
 i am in branch fea
+i am after bug 1
